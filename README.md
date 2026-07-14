@@ -55,6 +55,7 @@ The models were assessed using residual plots and comparison of observed vs pred
 
 ![alt text](https://github.com/MattWebbb/InsuranceClaimsModel/blob/main/Screenshots/Residuals%20Severity.png "Gamma GLM Residuals vs Fitted Values")
 
+Residual plots for both models show patterns consistent with the characteristics of insurance claims data. The Poisson GLM residuals show the expected fan shape at low fitted values, reflecting the skewed distribution of claim counts across policies. The Gamma GLM residuals are well-behaved across the majority of observations, with a small number of large outliers reflecting extreme individual claims that are inherent to insurance severity data.
 
 ![alt text](https://github.com/MattWebbb/InsuranceClaimsModel/blob/main/Screenshots/Actual%20vs%20Predicted%20Frequency.png "Gamma GLM Observed vs Predicted")
 
