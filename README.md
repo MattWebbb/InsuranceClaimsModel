@@ -51,8 +51,21 @@ Furthermore, the model assumes that:
 
 The models were assessed using residual plots and comparison of observed vs predicted outputs.
 
+![alt text](https://github.com/MattWebbb/InsuranceClaimsModel/blob/main/Screenshots/Residuals%20Frequencyy.png "Poisson GLM Residuals vs Fitted Values")
+
+![alt text](https://github.com/MattWebbb/InsuranceClaimsModel/blob/main/Screenshots/Residuals%20Severity.png "Gamma GLM Residuals vs Fitted Values")
+
+Residuals%20Frequency
+![alt text](https://github.com/MattWebbb/InsuranceClaimsModel/blob/main/Screenshots/Actual%20vs%20Predicted%20Frequency.png "Gamma GLM Observed vs Predicted")
+
+![alt text](https://github.com/MattWebbb/InsuranceClaimsModel/blob/main/Screenshots/Actual%20vs%20Predicted%20Severity.png "Poisson GLM Observed vs Predicted")
+
 The fitted models identified several variables with strong influence on expected claim costs, including:
 
 - Driver Age
 - Vehicle Age
 - Bonus-Malus
+
+![alt text](https://github.com/MattWebbb/InsuranceClaimsModel/blob/main/Screenshots/Pure%20Premium%20By%20Driver%20Age.png "Premium by Driver Age")
+
+![alt text](https://github.com/MattWebbb/InsuranceClaimsModel/blob/main/Screenshots/Pure%20Premium%20By%20Vehicle%20Age.png "Premium by Vehicle Age")
