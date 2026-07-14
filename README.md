@@ -43,8 +43,8 @@ Poisson GLM: The frequency model assumes claims occur independently and follow a
 Gamma GLM: The severity model assumes claim costs occur independently, are positive, and follow a Gamma distribution.
 
 Furthermore, the model assumes that:
-- Policyholders are independant.
-- Predictor variables capoture the major sources of risk.
+- Policyholders are independent.
+- Predictor variables capture the major sources of risk.
 - Historical claims are representative of future experience.
 
 # Model Validation
