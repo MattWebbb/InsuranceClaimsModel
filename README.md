@@ -51,7 +51,7 @@ Furthermore, the model assumes that:
 
 The models were assessed using residual plots and comparison of observed vs predicted outputs.
 
-![alt text](https://github.com/MattWebbb/InsuranceClaimsModel/blob/main/Screenshots/Residuals%20Frequencyy.png "Poisson GLM Residuals vs Fitted Values")
+![alt text](https://github.com/MattWebbb/InsuranceClaimsModel/blob/main/Screenshots/Residuals%20Frequency.png "Poisson GLM Residuals vs Fitted Values")
 
 ![alt text](https://github.com/MattWebbb/InsuranceClaimsModel/blob/main/Screenshots/Residuals%20Severity.png "Gamma GLM Residuals vs Fitted Values")
 
